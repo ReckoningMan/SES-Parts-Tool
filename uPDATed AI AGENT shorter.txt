@@ -1,0 +1,508 @@
+
+Create me a unique 1 of a kind  Custim UI with AI AGENT , i want this more program like than Website, so remove anyrhing website from the idea below: 
+
+ for Small Engine Parts , that uses a simple too use modern small engine repair shop from the google business website. Dont clone the website, but copy and bring the only stuff you need to copy is the public information, how to find serial videos that are there from Youtube, images that show engines with arrows) publc info that they have, Any informational data or search engine, parts tools, that are pubic and make it easier to find parts. details online while we work in the spring time. Keep it different from www.jackssmallengines.com , change and adapt it to match this business here: Small Engine Systems in Shawnee, OK https://g.co/kgs/S9gDEZwBut keep anything that helps the customer with knowledge if they needed help , all the how to's , finding your serials, brands, and all that stufff.. make it look professionalgive me the completed project in a zip, or all the edited  file for copy or download and testing. make easy opening.. as well.. use all the tabs and images from Jacks to show how to find serial #'s on all types of equipno copysrights were used.. just look at image link shortcuts on there website.. and all the dealer images that show the help info. and pull ALL of the search tabs for Small Engine Repair brans, dont do this power tools or applicanes .. All of the brands here: https://www.jackssmallengines.com/jacks-parts-lookup
+Can all the search engines from each of the websitees you found and havent found yet, be implemented into 1 GIGANTIC search engine on our website that allows everyone to search their #'s, by brand or by All/Cross Reference and when they type their numbers, if there is a cross #, list it for easily finding ( Stens Parts ) , and any other Cross Reference mower info pages,Automatically locating the Superseeded #, inclue any Parts lookup pages and include them. PartsTree, and all the other websites show in the readme, also add more that available. or well known. make sure to include Equipment info or Engine info from each company, like from Stens is a great company list, and we are a parts dealer of Stens. and also make available all th parts, we dont work on Saws and Trimmers etc, but if they find the part, we can order them the part and they install.and give me my readme before you dissapear.. you HAD ALOT OF data summarize..  and give links to all the Links of brands/parts dealers, cross Reference sites,  Include Parts tree and Stens , and other Parts dealers than you can find! Marrs Brothers.Make me my new Readme, with it more broken down with Brands with all they links readily to use ( so i can use DL link, and download image, and rename it )  Take your time and make this a 500-1000$ Website build. Use Lawn Equipments , or mowing animations on the homepage , mild on sidepages.
+
+Links, Brands, and Search Tabs
+www.jackssmallengines.com  
+Brands: Many top manufacturers  
+
+Search Tab: Parts lookup with exploded diagrams  
+
+Link: Jack's Small Engines Parts Lookup
+
+www.partstree.com  
+Brands: Cub Cadet, Toro, Ariens, Husqvarna, eXmark, Echo, Briggs & Stratton, Honda, MTD  
+
+Search Tab: Parts lookup with OEM diagrams  
+
+Link: PartsTree Parts Lookup
+
+www.sepw.com  
+Brands: Briggs & Stratton, Echo, Honda Power Equipment, Husqvarna, Poulan, Simplicity, Snapper, Toro, Kohler Engines  
+
+Search Tab: Quick parts lookup  
+
+Link: Small Engine Parts Warehouse
+
+
+Notes  
+All data is public and can be embedded or linked to avoid copyright issues.
+
+
+# Small Engine Systems Website
+
+A premium, all‑in‑one parts & resource hub for Small Engine Systems in Shawnee, OK.  
+Built with a modern, responsive design and a unified parts lookup engine.
+
+## Features
+
+- **Unified Parts Lookup**  
+  Search across 30+ OEMs & distributors from one interface.  
+  Cross‑reference OEM & aftermarket numbers via Stens catalog data.
+
+- **Brand Resources**  
+  - Direct links & embedded search forms for each major brand.  
+  - “How to Find Your Serial #” videos & diagrams.
+
+- **Used Equipment**  
+  - “Used Mowers Near Me” (Craigslist widget).  
+  - “Used Mowers Here” (your on‑site inventory).
+
+- **Salvage Yard**  
+  Request used parts—let us check the yard and get you a quote.
+
+- **Future Ready**  
+  Placeholder for inventory & barcode‑scanner integration.
+
+
+
+# Universal Parts & Distributor Directory
+
+| Brand / Distributor       | Site? | Parts Lookup URL                                                                  | Notes                              |
+|---------------------------|-------|-----------------------------------------------------------------------------------|------------------------------------|
+| **Ariens**                | ✅    | https://www.ariens.com/eu/en/parts                                               | OEM exploded diagrams              |
+| **AYP / Electrolux**      | ✅    | https://www.atlascopco.com/en-us/parts-lookup                                      | lawn & garden lines                |
+| **Bobcat**                | ✅    | https://www.bobcat.com/parts                                                     | attachments & engines              |
+| **Campbell Hausfeld**     | ✅    | https://www.campbellhausfeld.com/parts                                            | pneumatic & small engine           |
+| **Dolmar**                | ✅    | https://dolmar.de/en/parts/accessories                                           | chainsaws & splitters              |
+| **Echo**                  | ✅    | https://www.echo-usa.com/parts-diagnostics                                        | trimmers excluded (parts only)     |
+| **Exmark**                | ✅    | https://shop.exmark.com/                                                         | mowers & parts                     |
+| **Ferris**                | ✅    | https://www.ferrismowers.com/parts                                               | commercial mowers                  |
+| **Gravely**               | ✅    | https://www.gravely.com/en-us/parts-lookup                                        | zero-turn & walk-behind            |
+| **Homelite**              | ✅    | https://www.homelite.com/parts                                                   | blowers & generators               |
+| **Honda (OPE)**           | ✅    | https://powerequipment.honda.com/parts                                            | small engines & generators         |
+| **Husqvarna**             | ✅    | https://www.husqvarna.com/us/parts/                                              | outdoor power equipment            |
+| **Lawn-Boy**              | ✅    | https://www.lawn-boy.com/parts                                                   | residential mowers                 |
+| **MTD**                   | ✅    | https://www.mtdproducts.com/parts                                                | parts lookup                       |
+| **Murray**                | ✅    | https://www.murray.net/parts                                                     | residential line                   |
+| **NorthStar**             | ✅    | https://www.northstarproducts.com/parts                                          | professional mowers                |
+| **Onan (Cummins)**        | ✅    | https://parts.cummins.com/                                                       | generators                          |
+| **Oregon**                | ✅    | https://www.oregonchain.com/en_US/Parts                                          | chains & saws (parts only)         |
+| **Poulan**                | ✅    | https://www.poulanpro.com/parts                                                  | push mowers                        |
+| **RedMax**                | ✅    | https://www.redmax-usa.com/parts-tools                                           | excluding trimmers                 |
+| **Scag**                  | ✅    | https://www.scag.com/manual-parts-list/                                          | commercial mowers                  |
+| **Simplicity**            | ✅    | https://www.simplicitymfg.com/parts                                              | residential/commercial             |
+| **Snapper**               | ✅    | https://www.snapper.com/na/en_us/support/manuals.html                            | lawn & garden                      |
+| **Tanaka**                | ✅    | https://www.tanaka-usa.com/parts                                                 | blowers, trimmers excluded         |
+| **Toro**                  | ✅    | https://www.parts.toro.com/portal/server.pt/community/parts_view/225             | full parts view                    |
+| **Troy-Bilt**             | ✅    | https://www.troybilt.com/owners-support/parts                                    | push & rear-engine mowers          |
+| **Briggs & Stratton**     | ✅    | https://www.briggsandstratton.com/parts                                          | engine parts & diagrams            |
+| **Generac**               | ✅    | https://www.generac.com/parts                                                     | generators & engines               |
+| **Kawasaki**              | ✅    | https://powersports.kawasaki.com/en-us/service-and-parts                         | engines                            |
+| **Kohler**                | ✅    | https://kohlerengines.com/en/parts                                              | horizontal & vertical engines      |
+| **LCT**                   | ✅    | https://lctglobal.com/parts                                                      | small engines                      |
+| **Robin / Subaru**        | ✅    | https://subarupower.com/parts                                                     | engines                            |
+| **Tecumseh**              | ✅    | https://www.tecumseh.com/en/parts-accessories                                     | engines                            |
+| **Rotary Corporation**    | ✅    | https://www.rotarycorporation.com/parts                                          | aftermarket parts                  |
+| **SEPW**                  | ✅    | https://www.sepw.com/parts-lookup/                                               | OEM cross-reference                |
+| **Engine Warehouse**      | ✅    | https://www.enginewarehouse.com/parts-catalog                                    | distributor catalog                |
+| **Medart**                | ✅    | https://medart.com/parts                                                         | aftermarket & OEM                  |
+| **Keystone (GPC)**        | ✅    | https://www.keystone-parts.com/                                                  | general parts                      |
+| **Stens**                 | ✅    | https://www.stens.com/quick-reference-guides                                     | cross-reference & conversion       |
+| **PartsTree**             | ✅    | https://www.partstree.com/                                                       | exploded diagrams & lookup         |
+| **Genuine Parts Co.**     | ✅    | https://www.genuineparts.com/                                                    | wide coverage                      |
+Entity: Ariens
+- Type: Brand
+- Official Parts Lookup URL: https://www.ariens.com/en-us/parts
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search on the official site.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/ariens/ (supports part number search across categories like air filters, engines)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/ariens (supports part number search)
+  - eReplacementParts: https://www.ereplacementparts.com/ariens-parts-c-157125.html (supports part number search)
+- Notes: Use third-party dealers for part number searches. Official site focuses on model-based diagrams.
+
+Entity: AYP / Electrolux
+- Type: Brand
+- Official Parts Lookup URL: None (now under Husqvarna)
+- Supports Part Number Search: Yes, via third-party sites
+- Search Details: No official parts lookup; use Husqvarna’s site or third-party dealers. PartsTree and Jack’s allow part number searches across categories.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/ayp/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/ayp (supports part number search)
+  - Lawnmower Pros: https://www.lawnmowerpros.com/ayp/ayp-parts.asp (supports part number search)
+- Notes: AYP is now under Husqvarna; parts may be listed under Husqvarna or Craftsman.
+
+Entity: Bobcat
+- Type: Brand
+- Official Parts Lookup URL: https://www.bobcat.com/na/en/parts-service/parts-catalog
+- Supports Part Number Search: No, requires model or serial number
+- Search Details: Search by serial number, model number, or product type to find parts. No direct part number search on the official site.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/bobcat/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/bobcat (supports part number search)
+  - Loader Parts Source: https://loaderpartssource.com/bobcat-parts (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Campbell Hausfeld
+- Type: Brand
+- Official Parts Lookup URL: https://www.campbellhausfeld.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model number, covering categories like air filters and engines. Filtering options available.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/campbell-hausfeld/ (supports part number search)
+  - eReplacementParts: https://www.ereplacementparts.com/campbell-hausfeld-parts-c-130.html (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Dolmar
+- Type: Brand
+- Official Parts Lookup URL: https://dolmar.de/en/parts/accessories
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/dolmar/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/dolmar (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Echo
+- Type: Brand
+- Official Parts Lookup URL: https://www.echo-usa.com/parts-lookup
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search on the official site.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/echo/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/echo (supports part number search)
+  - eReplacementParts: https://www.ereplacementparts.com/echo-parts-c-35043.html (supports part number search)
+  - Echo Parts Online: https://www.echopartsonline.com/parts-lookup/ (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Exmark
+- Type: Brand
+- Official Parts Lookup URL: https://shop.exmark.com/
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/exmark/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/exmark (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Ferris
+- Type: Brand
+- Official Parts Lookup URL: https://www.ferrismowers.com/parts
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/ferris/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/ferris (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Gravely
+- Type: Brand
+- Official Parts Lookup URL: https://www.gravely.com/en-us/parts-lookup
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/gravely/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/gravely (supports part number search)
+  - Ariens Parts Direct: https://arienspartsdirect.com/pages/parts-lookup (supports part number search for Gravely)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Homelite
+- Type: Brand
+- Official Parts Lookup URL: https://www.homelite.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/homelite/ (supports part number search)
+  - eReplacementParts: https://www.ereplacementparts.com/homelite-parts-c-18715.html (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Honda (OPE)
+- Type: Brand
+- Official Parts Lookup URL: https://powerequipment.honda.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number, covering categories like air filters, engines, and carburetors. Filtering options available.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/honda/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/honda-engines (supports part number search)
+  - eReplacementParts: https://www.ereplacementparts.com/honda-parts-c-37408.html (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Husqvarna
+- Type: Brand
+- Official Parts Lookup URL: https://www.husqvarna.com/us/parts/
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or product name, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/husqvarna/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/husqvarna (supports part number search)
+  - RCPW: https://www.rcpw.com/husqvarna (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Lawn-Boy
+- Type: Brand
+- Official Parts Lookup URL: https://www.lawn-boy.com/parts
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/lawn-boy/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/lawn-boy (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: MTD
+- Type: Brand
+- Official Parts Lookup URL: https://www.mtdparts.com/en_US/ari-partstream.html
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number under “Part Finder,” covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/mtd/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/mtd (supports part number search)
+  - eReplacementParts: https://www.ereplacementparts.com/mtd-parts-c-20039.html (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Murray
+- Type: Brand
+- Official Parts Lookup URL: None (use Briggs & Stratton: https://shop.briggsandstratton.com/pages/parts)
+- Supports Part Number Search: Yes, via Briggs & Stratton
+- Search Details: Search by Murray part number (add “MA” at the end if needed) on Briggs & Stratton’s site, covering multiple categories.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/murray/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/murray (supports part number search)
+  - eReplacementParts: https://www.ereplacementparts.com/murray-parts-c-17887.html (supports part number search)
+- Notes: Murray is now under Briggs & Stratton; use their site for part number searches.
+
+Entity: NorthStar
+- Type: Brand
+- Official Parts Lookup URL: https://www.northstarproducts.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/northstar/ (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Onan (Cummins)
+- Type: Brand
+- Official Parts Lookup URL: https://parts.cummins.com/
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number, covering categories like generators and engines with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/cummins/ (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Oregon
+- Type: Brand
+- Official Parts Lookup URL: https://www.oregonchain.com/en_US/Parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number, covering categories like chains and saw parts with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/oregon/ (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Poulan
+- Type: Brand
+- Official Parts Lookup URL: https://www.poulanpro.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/poulan/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/poulan (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: RedMax
+- Type: Brand
+- Official Parts Lookup URL: https://www.redmax-usa.com/parts-tools
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/redmax/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/redmax (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Scag
+- Type: Brand
+- Official Parts Lookup URL: https://www.scag.com/manual-parts-list/
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/scag/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/scag (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Simplicity
+- Type: Brand
+- Official Parts Lookup URL: https://www.simplicitymfg.com/parts
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/simplicity/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/simplicity (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Snapper
+- Type: Brand
+- Official Parts Lookup URL: None (use dealers; manuals at https://www.snapper.com/na/en_us/support/manuals.html)
+- Supports Part Number Search: Yes, via third-party sites
+- Search Details: No official parts lookup; use third-party dealers like PartsTree for part number searches across categories.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/snapper/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/snapper (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Tanaka
+- Type: Brand
+- Official Parts Lookup URL: https://www.tanaka-usa.com/parts
+- Supports Part Number Search: No, requires model selection
+- Search Details: Users must select the model to view parts diagrams. No direct part number search.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/tanaka/ (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Toro
+- Type: Brand
+- Official Parts Lookup URL: https://www.parts.toro.com/portal/server.pt/community/parts_view/225
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or keyword, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/toro/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/toro (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Troy-Bilt
+- Type: Brand
+- Official Parts Lookup URL: https://www.troybilt.com/owners-support/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/troy-bilt/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/troy-bilt (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Briggs & Stratton
+- Type: Brand
+- Official Parts Lookup URL: https://shop.briggsandstratton.com/pages/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number, covering categories like air filters, engines, and carburetors with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/briggs-stratton/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/briggs-stratton (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Generac
+- Type: Brand
+- Official Parts Lookup URL: https://www.generac.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/generac/ (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Kawasaki
+- Type: Brand
+- Official Parts Lookup URL: https://powersports.kawasaki.com/en-us/service-and-parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number, covering categories like engines with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/kawasaki/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/kawasaki (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Kohler
+- Type: Brand
+- Official Parts Lookup URL: https://kohlerengines.com/en/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number, covering categories like engines and air filters with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/kohler/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/kohler (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: LCT
+- Type: Brand
+- Official Parts Lookup URL: https://lctglobal.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/lct/ (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Robin / Subaru
+- Type: Brand
+- Official Parts Lookup URL: https://subarupower.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number or model, covering multiple categories with filtering options.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/subaru/ (supports part number search)
+- Notes: Official site supports part number search with filtering.
+
+Entity: Tecumseh
+- Type: Brand
+- Official Parts Lookup URL: None (defunct; use dealers)
+- Supports Part Number Search: Yes, via third-party sites
+- Search Details: No official parts lookup; use third-party dealers like PartsTree for part number searches across categories.
+- Additional Dealers:
+  - PartsTree: https://www.partstree.com/brands/tecumseh/ (supports part number search)
+  - Jack's Small Engines: https://www.jackssmallengines.com/jacks-parts-lookup/manufacturer/tecumseh (supports part number search)
+- Notes: Use third-party dealers for part number searches.
+
+Entity: Rotary Corporation
+- Type: Distributor
+- Official Parts Lookup URL: https://www.rotarycorp.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Offers a parts catalog with search by part number, covering aftermarket parts for multiple brands.
+- Additional Dealers: None (distributor-specific)
+- Notes: Focuses on aftermarket parts; supports part number search.
+
+Entity: SEPW
+- Type: Distributor
+- Official Parts Lookup URL: https://www.sepw.com/parts-lookup/
+- Supports Part Number Search: Yes
+- Search Details: Provides quick parts lookup with part number search, covering multiple brands and categories.
+- Additional Dealers: None (distributor-specific)
+- Notes: Supports part number search across multiple brands.
+
+Entity: Engine Warehouse
+- Type: Distributor
+- Official Parts Lookup URL: https://www.enginewarehouse.com/parts-catalog
+- Supports Part Number Search: Yes
+- Search Details: Offers a parts catalog with search by part number, covering multiple brands and categories.
+- Additional Dealers: None (distributor-specific)
+- Notes: Supports part number search; users can exclude categories like air filters via UI.
+
+Entity: Medart
+- Type: Distributor
+- Official Parts Lookup URL: https://medart.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Offers parts lookup with search by part number, covering aftermarket and OEM parts for multiple brands.
+- Additional Dealers: None (distributor-specific)
+- Notes: Supports part number search across multiple brands.
+
+Entity: Keystone (GPC)
+- Type: Distributor
+- Official Parts Lookup URL: https://www.keystone-parts.com/
+- Supports Part Number Search: Yes
+- Search Details: Offers general parts lookup with search by part number, covering multiple brands.
+- Additional Dealers: None (distributor-specific)
+- Notes: Supports part number search across multiple brands.
+
+Entity: Stens
+- Type: Distributor
+- Official Parts Lookup URL: https://www.stens.com/quick-reference-guides
+- Supports Part Number Search: Yes
+- Search Details: Offers cross-reference guides and part number searches for aftermarket parts across multiple brands.
+- Additional Dealers: None (distributor-specific)
+- Notes: Specializes in cross-referencing OEM and aftermarket parts.
+
+Entity: PartsTree
+- Type: Distributor
+- Official Parts Lookup URL: https://www.partstree.com/
+- Supports Part Number Search: Yes
+- Search Details: Allows searching by part number across multiple brands (e.g., Toro, Cub Cadet, Husqvarna), covering categories like air filters, engines, and carburetors. Filtering options available.
+- Additional Dealers: None (distributor-specific)
+- Notes: Primary unified search tool for the website; supports part number search across many brands.
+
+Entity: Genuine Parts Co.
+- Type: Distributor
+- Official Parts Lookup URL: https://www.genuineparts.com/
+- Supports Part Number Search: Yes
+- Search Details: Offers parts lookup with search by part number, covering a wide range of brands and categories.
+- Additional Dealers: None (distributor-specific)
+- Notes: Supports part number search across multiple brands.
+
+Entity: Kubota
+- Type: Brand
+- Official Parts Lookup URL: https://www.kubotausa.com/parts
+- Supports Part Number Search: Yes
+- Search Details: Allows
+

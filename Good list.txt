@@ -1,0 +1,91 @@
+To enhance the list of brands and dealers, we'll gather additional resources from the internet. Below are some strategies to find more brands and dealers, along with a plan to implement a unified search engine that aggregates results from all these sources.
+
+---
+
+### **1. Additional Brands and Dealers**
+Here are some additional brands and dealers that can be included in the list:
+
+#### **Additional Brands**
+- **Cub Cadet**: [Official Site](https://www.cubcadet.com/)
+- **ECHO**: [Official Site](https://www.echo-usa.com/)
+- **Exmark**: [Official Site](https://shop.exmark.com/)
+- **Ferris**: [Official Site](https://www.ferrismowers.com/)
+- **Gravely**: [Official Site](https://www.gravely.com/)
+- **Homelite**: [Official Site](https://www.homelite.com/)
+- **Husqvarna**: [Official Site](https://www.husqvarna.com/us/)
+- **Lawn-Boy**: [Official Site](https://www.lawn-boy.com/)
+- **MTD**: [Official Site](https://www.mtdproducts.com/)
+- **Murray**: [Official Site](https://www.murray.net/)
+- **NorthStar**: [Official Site](https://www.northstarproducts.com/)
+- **Onan (Cummins)**: [Official Site](https://parts.cummins.com/)
+- **Oregon**: [Official Site](https://www.oregonchain.com/)
+- **Poulan**: [Official Site](https://www.poulanpro.com/)
+- **RedMax**: [Official Site](https://www.redmax-usa.com/)
+- **Scag**: [Official Site](https://www.scag.com/)
+- **Simplicity**: [Official Site](https://www.simplicitymfg.com/)
+- **Snapper**: [Official Site](https://www.snapper.com/)
+- **Tanaka**: [Official Site](https://www.tanaka-usa.com/)
+- **Troy-Bilt**: [Official Site](https://www.troybilt.com/)
+
+#### **Additional Dealers**
+- **Marrs Brothers**: [Official Site](https://www.marrsbros.com/)
+- **Lawnmower Pros**: [Official Site](https://www.lawnmowerpros.com/)
+- **Loader Parts Source**: [Official Site](https://loaderpartssource.com/)
+- **EreplacementParts**: [Official Site](https://www.ereplacementparts.com/)
+- **Echo Parts Online**: [Official Site](https://www.echopartsonline.com/)
+- **RCPW**: [Official Site](https://www.rcpw.com/)
+- **LCT Global**: [Official Site](https://lctglobal.com/)
+- **Medart**: [Official Site](https://medart.com/)
+- **Keystone Parts**: [Official Site](https://www.keystone-parts.com/)
+
+---
+
+### **2. Unified Search Engine**
+To implement a unified search engine that aggregates results from all these sources, we'll use a combination of APIs, scraping, and external services. Here’s how we can approach it:
+
+#### **Approach**
+1. **API Integration**: If brands or dealers offer public APIs, we can directly integrate them.
+2. **Web Scraping**: For sites without APIs, we can scrape data using tools like Puppeteer or Cheerio.
+3. **Third-Party Services**: Use third-party services like Stens, PartsTree, and SEPW for cross-referencing and additional data.
+
+#### **Implementation Steps**
+1. **Create a Backend API**:
+   - Develop a server-side API that acts as a proxy to fetch data from various sources.
+   - Use Node.js with Express for the backend.
+
+2. **Fetch Data Dynamically**:
+   - For each brand/dealer, determine if an API is available. If not, use scraping.
+   - Cache results to improve performance and reduce load on external sites.
+
+3. **Aggregate Results**:
+   - Combine results from all sources into a unified format.
+   - Display results grouped by brand or dealer.
+
+4. **Frontend Integration**:
+   - Use the frontend to call the backend API and display results.
+
+---
+
+### **3. Updated Brand List**
+Here’s an updated list of brands and dealers, including the new additions:
+
+#### **Brands**
+| Brand Name         | Official Site                                                                 | Notes                                                                 |
+|--------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Ariens             | [https://www.ariens.com/en-us/parts](https://www.ariens.com/en-us/parts) | OEM exploded diagrams                                                |
+| AYP / Electrolux   | [https://www.atlascopco.com/en-us/parts-lookup](https://www.atlascopco.com/en-us/parts-lookup) | Lawn & garden lines                                                 |
+| Bobcat             | [https://www.bobcat.com/parts](https://www.bobcat.com/parts)             | Attachments & engines                                               |
+| Campbell Hausfeld  | [https://www.campbellhausfeld.com/parts](https://www.campbellhausfeld.com/parts) | Pneumatic & small engine                                            |
+| Dolmar             | [https://dolmar.de/en/parts/accessories](https://dolmar.de/en/parts/accessories) | Chainsaws & splitters                                              |
+| Echo               | [https://www.echo-usa.com/parts-lookup](https://www.echo-usa.com/parts-lookup) | Trimmers excluded (parts only)                                     |
+| Exmark             | [https://shop.exmark.com/](https://shop.exmark.com/)                       | Mowers & parts                                                      |
+| Ferris             | [https://www.ferrismowers.com/parts](https://www.ferrismowers.com/parts) | Commercial mowers                                                  |
+| Gravely            | [https://www.gravely.com/en-us/parts-lookup](https://www.gravely.com/en-us/parts-lookup) | Zero-turn & walk-behind                                             |
+| Homelite           | [https://www.homelite.com/parts](https://www.homelite.com/parts)         | Blowers & generators                                                |
+| Honda (OPE)        | [https://powerequipment.honda.com/parts](https://powerequipment.honda.com/parts) | Small engines & generators                                          |
+| Husqvarna          | [https://www.husqvarna.com/us/parts/](https://www.husqvarna.com/us/parts/) | Outdoor power equipment                                             |
+| Lawn-Boy           | [https://www.lawn-boy.com/parts](https://www.lawn-boy.com/parts)       | Residential mowers                                                 |
+| MTD                | [https://www.mtdproducts.com/parts](https://www.mtdproducts.com/parts) | Parts lookup                                                        |
+| Murray             | [https://www.murray.net/parts](https://www.murray.net/parts)           | Residential line                                                    |
+| NorthStar          | [https://www.northstarproducts.com/parts](https://www.northstarproducts.com/parts) | Professional mowers                                                |
+| Onan (Cummins)
