@@ -1,71 +1,21 @@
 version: 2.1
-executors:
-  node-executor:
-    docker:
-      - image: cimg/node:18.20.5
-    working_directory: ~/small-engine-agent
 jobs:
-  install:
-    executor: node-executor
+  test-fuzzy-search:
+    docker:
+      - image: cimg/python:3.11
     steps:
       - checkout
-      - restore_cache:
-          keys:
-            - node-deps-{{ checksum "package-lock.json" }}
-            - node-deps-
       - run:
           name: Install dependencies
-          command: npm install
-      - save_cache:
-          paths:
-            - ~/.npm
-          key: node-deps-{{ checksum "package-lock.json" }}
-      - persist_to_workspace:
-          root: .
-          paths:
-            - .
-  build:
-    executor: node-executor
-    steps:
-      - attach_workspace:
-          at: .
+          command: |
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+            pip install rapidfuzz
       - run:
-          name: Build Electron App
-          command: npm run build
-      - persist_to_workspace:
-          root: .
-          paths:
-            - .
-  test:
-    executor: node-executor
-    steps:
-      - attach_workspace:
-          at: .
-      - run:
-          name: Run Tests
-          command: npm test
-  package:
-    executor: node-executor
-    steps:
-      - attach_workspace:
-          at: .
-      - run:
-          name: Package Electron App
-          command: npm run package
-      - store_artifacts:
-          path: dist
-          destination: packaged-app
+          name: Run fuzzy search tests
+          command: pytest src/database/tests/test_fuzzy_search.py
 workflows:
   version: 2
-  build_and_package:
+  fuzzy_search:
     jobs:
-      - install
-      - build:
-          requires:
-            - install
-      - test:
-          requires:
-            - build
-      - package:
-          requires:
-            - test
+      - test-fuzzy-search
