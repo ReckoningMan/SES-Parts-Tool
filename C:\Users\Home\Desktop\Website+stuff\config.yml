@@ -14,8 +14,23 @@ jobs:
       - run:
           name: Run fuzzy search tests
           command: pytest src/database/tests/test_fuzzy_search.py
+  test-ui-features:
+    docker:
+      - image: cimg/python:3.11
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: |
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+            pip install PyQt5 pillow
+      - run:
+          name: Run UI feature tests (screenshots, cart)
+          command: pytest src/ui/tests/test_ui_features.py
 workflows:
   version: 2
-  fuzzy_search:
+  feature_tests:
     jobs:
       - test-fuzzy-search
+      - test-ui-features
