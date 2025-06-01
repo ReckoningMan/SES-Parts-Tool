@@ -1,69 +1,71 @@
 version: 2.1
+executors:
+  node-executor:
+    docker:
+      - image: cimg/node:18.20.5
+    working_directory: ~/small-engine-agent
 jobs:
-  test:
-    docker:
-      - image: cimg/base:stable
+  install:
+    executor: node-executor
     steps:
       - checkout
+      - restore_cache:
+          keys:
+            - node-deps-{{ checksum "package-lock.json" }}
+            - node-deps-
       - run:
-          name: Run tests
-          command: echo 'replace me with real tests!' && false
+          name: Install dependencies
+          command: npm install
+      - save_cache:
+          paths:
+            - ~/.npm
+          key: node-deps-{{ checksum "package-lock.json" }}
+      - persist_to_workspace:
+          root: .
+          paths:
+            - .
   build:
-    docker:
-      - image: cimg/base:stable
+    executor: node-executor
     steps:
-      - checkout
+      - attach_workspace:
+          at: .
       - run:
-          name: Build an artifact
-          command: touch example.txt
+          name: Build Electron App
+          command: npm run build
+      - persist_to_workspace:
+          root: .
+          paths:
+            - .
+  test:
+    executor: node-executor
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: Run Tests
+          command: npm test
+  package:
+    executor: node-executor
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: Package Electron App
+          command: npm run package
       - store_artifacts:
-          path: example.txt
-  deploy:
-    docker:
-      - image: cimg/base:stable
-    steps:
-      - run:
-          name: deploy
-          command: "#e.g. ./deploy.sh"
-  evals-test-assertions-job:
-    docker:
-      - image: cimg/base:stable
-    steps:
-      - checkout
-      - evals/test:
-          assertions: assertions.json
-          metrics: eval_results.json
-          results: test_results.xml
+          path: dist
+          destination: packaged-app
 workflows:
-  example:
+  version: 2
+  build_and_package:
     jobs:
-      - test:
-          context:
-            - Gemini-hiiiiii
-            - HuggingFace-context
-            - ChromaDB-context
-            - LangSmith-Boing
-            - Braintrust-Boing
+      - install
       - build:
           requires:
-            - test
-          context:
-            - Gemini-hiiiiii
-            - HuggingFace-context
-            - ChromaDB-context
-            - LangSmith-Boing
-            - Braintrust-Boing
-      - deploy:
+            - install
+      - test:
+          requires:
+            - build
+      - package:
           requires:
             - test
-          context:
-            - Gemini-hiiiiii
-            - HuggingFace-context
-            - ChromaDB-context
-            - LangSmith-Boing
-            - Braintrust-Boing
-  test-eval-workflow:
-    jobs:
-      - evals-test-assertions-job
-orbs:
-  evals: circleci/evals@2.0
